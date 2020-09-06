@@ -10,4 +10,4 @@
 - 📫 How to reach me: johnbenniel7@gmail.com
 - 😄 Pronouns: John Benniel(never mind)
 - ⚡ Fun fact: I am in github😅
-<h1 align="center">Github Profile README</h1>
+<h1 align="center">Get Excited By Learning 😋</h1>
