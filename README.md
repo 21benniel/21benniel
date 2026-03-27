@@ -123,13 +123,13 @@ class QAEngineer:
 
 ## 💼 Professional Journey
 
-### 🔄 **Current Role: QA Engineer @ AppViewX** *(Feb 2025 - Present)*
+### 🔄 **Current Role: QA Engineer @ AppViewX** *(Feb 2024 - Present)*
 Leading end-to-end test automation for TLS Certificate management solutions
 - Python & Robot Framework expertise for comprehensive testing
 - Dashboard development for data-driven QA decisions
 - Cross-functional collaboration for streamlined releases
 
-### 🚀 **Senior Test Engineer @ Sandvine Technologies** *(May 2021 - Feb 2025)*
+### 🚀 **Senior Test Engineer @ Sandvine Technologies** *(May 2021 - Feb 2024)*
 Gatekeeper for 70+ product releases with comprehensive QA ownership
 - Automated data pipelines and test frameworks using Python
 - Performance testing for networking and storage solutions
