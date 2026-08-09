@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer+%7C+4%2B+Years;Python+%7C+Robot+Framework+Expert;Data+Science+Student+%40+VIT;Get+Excited+By+Learning+New+Things!)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=johnbenniel&color=blueviolet&style=flat-square)](https://github.com/21benniel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/johnbenniel)
+[![Profile Views](https://komarev.com/ghpvc/?username=21benniel&color=blueviolet&style=flat-square)](https://github.com/21benniel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-benniel)
 [![Email](https://img.shields.io/badge/Email-johnbenniel17%40gmail.com-red?style=flat-square&logo=gmail)](mailto:johnbenniel17@gmail.com)
 
 </div>
@@ -45,7 +45,7 @@ class QAEngineer:
 ## 🛠️ Tech Arsenal
 
 ### 🔧 Automation & Testing
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -73,16 +73,16 @@ class QAEngineer:
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnbenniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbenniel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21benniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21benniel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbenniel&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21benniel&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnbenniel&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=21benniel&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -184,7 +184,7 @@ Gatekeeper for 70+ product releases with comprehensive QA ownership
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/21benniel/21benniel/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnbenniel/johnbenniel/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/johnbenniel/johnbenniel/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/21benniel/21benniel/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/21benniel/21benniel/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
